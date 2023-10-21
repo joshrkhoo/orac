@@ -22,6 +22,7 @@ for i, line in enumerate(inputFile.readlines()):
         # increment count
         # go to i-1th index and check if it is a 0 
     #print count
+
  
  
 count = 0
